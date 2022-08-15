@@ -1,0 +1,249 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f5f7fa;
+    padding: 20px;
+    font-family: Montserrat;
+}
+
+.wrapper{
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.sidebar{
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-foto{
+    width: 370px;
+}
+
+.abaut-me-conteyner{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.contacts-conteyner{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.contacts-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.contacts-linc{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+}
+
+.contacts-linc-type{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.contacts-linc:hover{
+    color:blue;
+}
+
+.tech-skills-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+margin-bottom: 20px;
+}
+
+.tech-skills-conteyner{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.tech-skills-iten{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.tech-skills-text{
+    color: #c3c6ca;
+}
+
+.soft-skills-conteyner{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.soft-skills-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.soft-skills-item{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.soft-skills-text{
+    color: #c3c6ca;
+}
+
+.info-conteyner{
+    margin-bottom: 60px;
+}
+
+.abaut-me-profession{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+
+.abaut-me-name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.abaut-me-text{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 20px;
+}
+
+.abaut-mi-titl{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+    margin-top: 55px;
+    color: #000000;
+}
+
+.projects-item{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.projects-link{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.projects-link:hover{
+    color: blue;
+}
+
+.projects-program{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;  
+}
+
+.projects-conteyner{
+    margin-bottom: 55px;
+}
+
+.profession-title{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.profession-compani-color{
+   color: #ff771c; 
+}
+
+.profession-date{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.slash{
+    font-weight: 700;
+    color: #000000;
+}
+
+.profession-buties{
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
+
+.profession-buties-item{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.management-text{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.education-color{
+    color: #ff771c;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.name-diploma{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
